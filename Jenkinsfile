@@ -10,7 +10,8 @@ pipeline {
 
         // ===== USER CONFIGURATION VARIABLES =====
 
-        REPO_URL = "https://github.com/satya66655/devops-cicd-demo.git"
+        REPO_URL = "https://github.com/satya66655/new-demo.git"
+        
         REPO_BRANCH = "main"
 
         WEB_SERVER = "34.207.210.122"
